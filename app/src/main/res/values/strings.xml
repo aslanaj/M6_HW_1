@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">M6_HW_1</string>
+    <string name="Enter_text">Введите текст</string>
+    <string name="send">Send</string>
+    <string name="send_back">Send Back</string>
+    <string name="edittext">EditText не может быть пустым</string>
+</resources>

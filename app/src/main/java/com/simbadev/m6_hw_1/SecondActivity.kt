@@ -5,6 +5,7 @@ import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Toast
+import com.simbadev.m6_hw_1.MainActivity.Companion.REQUEST_CODE
 import com.simbadev.m6_hw_1.databinding.ActivitySecondAvtivityBinding
 
 class SecondActivity : AppCompatActivity() {
@@ -38,8 +39,5 @@ class SecondActivity : AppCompatActivity() {
                 ).show()
             }
         }
-    }
-    companion object {
-        const val REQUEST_CODE = "title"
     }
 }
